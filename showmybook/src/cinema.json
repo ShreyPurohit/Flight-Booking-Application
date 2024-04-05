@@ -1,0 +1,348 @@
+[
+     {
+          "id": 1,
+          "price": 600,
+          "title": "The Grudge",
+          "year": 2020,
+          "genres": [
+               "Horror",
+               "Supernatural"
+          ],
+          "description": "The Grudge is a 2020 American psychological supernatural horror film written and directed by Nicolas Pesce. Originally announced as a reboot of the 2004 American remake and the original 2002 Japanese horror film Ju-On: The Grudge, the film ended up taking place before and during the events of the 2004 film and its two direct sequels, and is the fourth installment in the American The Grudge film series.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie1.jpeg"
+     },
+     {
+          "id": 2,
+          "price": 450,
+          "title": "Underwater",
+          "year": 2020,
+          "genres": [
+               "Action",
+               "Horror",
+               "Science Fiction"
+          ],
+          "description": "Underwater is a 2020 American science fiction action horror film directed by William Eubank. The film stars Kristen Stewart, Vincent Cassel, Jessica Henwick, John Gallagher Jr., Mamoudou Athie, and T.J. Miller.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie2.jpeg"
+     },
+     {
+          "id": 3,
+          "price": 30,
+          "title": "Like a Boss",
+          "year": 2020,
+          "genres": [
+               "Comedy"
+          ],
+          "description": "Like a Boss is a 2020 American comedy film directed by Miguel Arteta, written by Sam Pitman and Adam Cole-Kelly, and starring Tiffany Haddish, Rose Byrne, and Salma Hayek. The plot follows two friends who attempt to take back control of their cosmetics company from an industry titan.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },          
+          "image": "../../movie3.jpeg"
+     },
+     {
+          "id": 4,
+          "price": 50,
+          "title": "Three Christs",
+          "year": 2020,
+          "genres": [
+               "Drama"
+          ],
+          "description": "Three Christs, also known as State of Mind, is a 2017 American drama film directed, co-produced, and co-written by Jon Avnet and based on Milton Rokeach's nonfiction book The Three Christs of Ypsilanti. It screened in the Gala Presentations section at the 2017 Toronto International Film Festival.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie4.jpeg"
+     },
+     {
+          "id": 5,
+          "price": 30,
+          "title": "Inherit the Viper",
+          "year": 2020,
+          "genres": [
+               "Crime",
+               "Drama"
+          ],
+          "description": "Inherit the Viper is a 2019 American crime drama film directed by Anthony Jerjen, in his feature directorial debut, from a screenplay by Andrew Crabtree. It stars Josh Hartnett, Margarita Levieva, Chandler Riggs, Bruce Dern, Valorie Curry, Owen Teague, and Dash Mihok.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie5.jpeg"
+     },
+     {
+          "id": 6,
+          "price": 700,
+          "title": "The Sonata",
+          "year": 2020,
+          "genres": [
+               "Mystery",
+               "Thriller"
+          ],
+          "description": "The Sonata is a 2018 mystery thriller film, directed by Andrew Desmond, from a screenplay by Desmond and Arthur Morin. It stars Freya Tingley, Simon Abkarian, James Faulkner, Rutger Hauer, Matt Barber and James Kermack. It was released in the United States on January 10, 2020, by Screen Media Films. It grossed $146,595 at the box office and received mixed reviews from critics.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie6.jpeg"
+     },
+     {
+          "id": 7,
+          "price": 450,
+          "title": "The Murder of Nicole Brown Simpson",
+          "year": 2020,
+          "genres": [
+               "Crime",
+               "Horror"
+          ],
+          "description": "The Murder of Nicole Brown Simpson is a 2019 American crime horror film directed by Daniel Farrands. The film is loosely based on the murder of Nicole Brown Simpson, presenting a version of events in which Brown Simpson is murdered by serial killer Glen Edward Rogers, and not by O. J. Simpson, her ex-husband and the primary suspect in the case.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie7.jpeg"
+     },
+     {
+          "id": 8,
+          "price": 50,
+          "title": "Bad Boys for Life",
+          "year": 2020,
+          "genres": [
+               "Action",
+               "Comedy"
+          ],
+          "description": "Bad Boys for Life is a 2020 American buddy cop action comedy film directed by Adil & Bilall. It is the sequel to Bad Boys II (2003) and the third installment in the Bad Boys franchise. Will Smith, Martin Lawrence, Joe Pantoliano and Theresa Randle reprise their roles in the film and are joined by Paola Núñez, Vanessa Hudgens, Jacob Scipio, Alexander Ludwig, Charles Melton, Kate del Castillo and Nicky Jam.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie8.jpeg"
+     },
+     {
+          "id": 9,
+          "price": 40,
+          "title": "Dolittle",
+          "year": 2020,
+          "genres": [
+               "Adventure",
+               "Fantasy"
+          ],
+          "description": "Dolittle is a 2020 American fantasy adventure film directed by Stephen Gaghan from a screenplay by Gaghan, Dan Gregor, and Doug Mand, based on a story by Thomas Shepherd. Dolittle is based on the title character created by Hugh Lofting and is primarily inspired by the author's second Doctor Dolittle book, The Voyages of Doctor Dolittle (1922).",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie9.jpeg"
+     },
+     {
+          "id": 10,
+          "price": 30,
+          "title": "A Fall from Grace",
+          "year": 2020,
+          "genres": [
+               "Thriller"
+          ],
+          "description": "A Fall from Grace is a 2020 American thriller film produced, written, and directed by Tyler Perry and his first to be released by Netflix. The film follows a woman who finds a dangerous new love and the novice attorney who defends her in a sensational court case. This was the final film of actor Cicely Tyson before her death in January 2021.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie10.jpeg"
+     },
+     {
+          "id": 11,
+          "price": 250,
+          "title": "The Gentlemen",
+          "year": 2020,
+          "genres": [
+               "Action",
+               "Comedy"
+          ],
+          "description": "The Gentlemen is a 2019 action comedy film written, directed and produced by Guy Ritchie, who developed the story along with Ivan Atkinson and Marn Davies. The film stars Matthew McConaughey, Charlie Hunnam, Henry Golding, Michelle Dockery, Jeremy Strong, Eddie Marsan, Colin Farrell, and Hugh Grant.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie11.jpeg"
+     },
+     {
+          "id": 12,
+          "price": 600,
+          "title": "The Turning",
+          "year": 2020,
+          "genres": [
+               "Horror",
+               "Supernatural"
+          ],
+          "description": "The Turning is a 2020 American gothic supernatural horror film directed by Floria Sigismondi and written by Carey W. Hayes and Chad Hayes. It is a modern adaptation of the 1898 ghost story The Turn of the Screw by Henry James. It stars Mackenzie Davis, Finn Wolfhard, Brooklynn Prince, and Joely Richardson, and follows a young governess in 1994 who is hired to watch over two children after their parents are killed.",
+          "seatType": {
+               "platinum": {
+                    "totalSeats": 30,
+                    "bookSeats": [],
+                    "price": 50
+               },
+               "gold": {
+                    "totalSeats": 40,
+                    "bookSeats": [],
+                    "price": 40
+               },
+               "silver": {
+                    "totalSeats": 50,
+                    "bookSeats": [],
+                    "price": 30
+               }
+          },
+          "image": "../../movie12.jpeg"
+     }
+]
